@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:11
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:49833
+#EXT-X-PROGRAM-DATE-TIME:2022-04-04T21:45:26Z
+#EXTINF:10.000,
+https://jiolive.xyz/s7/ts.php?ts=http://31.172.87.33:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/2022/04/04/21/45/26-10000.ts
+#EXTINF:10.000,
+https://jiolive.xyz/s7/ts.php?ts=http://31.172.87.33:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/2022/04/04/21/45/36-10000.ts
+#EXTINF:10.000,
+https://jiolive.xyz/s7/ts.php?ts=http://31.172.87.33:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/2022/04/04/21/45/46-10000.ts
+#EXTINF:10.000,
+https://jiolive.xyz/s7/ts.php?ts=http://31.172.87.33:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/2022/04/04/21/45/56-10000.ts
+#EXTINF:10.000,
+https://jiolive.xyz/s7/ts.php?ts=http://31.172.87.33:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/2022/04/04/21/46/06-10000.ts
